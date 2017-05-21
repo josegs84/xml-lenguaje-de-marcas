@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="EjemploXSLT_2b.xsl" type="text/xsl"?>
+<expediente alumno="Jose Gonzalez Silva">
+	<asignatura id="1">
+		<nombre>Programación</nombre>
+		<nota>Notable</nota>
+	</asignatura>
+	<asignatura id="2">
+		<nombre>Sistemas Operativos</nombre>
+		<nota>Excelente</nota>
+	</asignatura>
+	<asignatura id="3">
+		<nombre>Diseño de interfaces</nombre>
+		<nota>Suspenso</nota>
+	</asignatura>
+	<asignatura id="4">
+		<nombre>Bases de Datos</nombre>
+		<nota>Bien</nota>
+	</asignatura>
+</expediente>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="EjemploCSS_2.css" type="text/css"?>
+<articulo xmlns:html="http://www.w3.org/1999/xhtml">
+	<!-- Cabecera del documento -->
+	<html:a name="principio"></html:a>
+	<tituloP>
+		Extensible Markup Language
+	</tituloP>
+	<autor>
+		<html:a href="mailto:josegs84@gmail.com"> Jose Gonzalez </html:a>
+	</autor>
+	<intro>
+		XML, siglas en Inglés de eXtensible Markup Language
+	</intro>
+	<!-- Cuerpo del documento -->
+	<tituloA>
+		Introducción
+	</tituloA>
+	<p>
+		Es un lenguaje de marcas desarrollado por el <n>World Wide
+		Web Consortium (W3C)</n> utilizado para almacenar datos en
+		forma legible.
+	</p>
+	<p>
+		Deriva del lenguaje <SGML></SGML> y permite definir la gramática
+		de lenguajes específicos
+	</p>
+	<tituloA>Utilidad</tituloA>
+	<p> XML da soporte a bases de datos, siendo util cuando varias
+		aplicaciones se deben comunicar entre sí o integrar información 
+	</p>
+	<p> XML es una <n>tecnología</n> sencilla que tiene a su alrededor
+	otras que la <c>complementan</c> y la hacen mucho mas grande y
+	con unas posibilidades mucho mayores. </p>
+	<html:br />
+	<tituloA>Evolución</tituloA>
+	<p> Será necesaria la conexión al W3C para estar al día en este
+		constante proceso de evolución.</p>
+	<!-- Comentarios del documento -->
+	<comentarioF>
+		Ultima fecha de actualización: 8 de Abril de 2014
+	</comentarioF>
+	<html:p> Esto es un párrafo de HTML </html:p>
+	<p>
+		<html:center>
+			<html:a href="#principio">[Principio de la página]</html:a>
+			<html:font color="white">----</html:font>
+			<html:a href="http://es.wikipedia.org/wiki/XML">[Página principal]</html:a>
+		</html:center>
+	</p>
+	<comentario_oculto>
+		Este documento es un extracto
+	</comentario_oculto>
+</articulo>

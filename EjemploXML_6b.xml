@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="EjemploXSLT_4b.xsl"?>
+<alumno nombre="Marina Sanchéz Borrell">
+	<numero_expediente>A1267</numero_expediente>
+	<curso>2016/2017</curso>
+	<expediente>
+		<asignatura>
+			<nombre>Matemáticas</nombre>
+			<nota>3.00</nota>
+		</asignatura>
+		<asignatura>
+			<nombre>Lengua</nombre>
+			<nota>6.00</nota>
+		</asignatura>
+		<asignatura>
+			<nombre>Historia</nombre>
+			<nota>8.50</nota>
+		</asignatura>
+		<asignatura>
+			<nombre>Física y Química</nombre>
+			<nota>5.50</nota>
+		</asignatura>
+	</expediente>
+</alumno>
